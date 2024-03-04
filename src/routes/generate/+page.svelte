@@ -1,7 +1,8 @@
 <script>
 </script>
 
-<div class="grow w-full flex items-center justify-center bg-neutral-50">
+<div class="grow flex-col w-full flex items-center justify-center bg-neutral-50">
+	<h1>Generate page</h1>
 	<form
 		class="bg-neutral-100 shadow-md p-8"
 		method="POST"
